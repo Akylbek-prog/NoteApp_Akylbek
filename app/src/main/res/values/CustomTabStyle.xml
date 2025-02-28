@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTabStyle" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabMinWidth">20dp</item>
+        <item name="tabPaddingStart">4dp</item>
+        <item name="tabPaddingEnd">4dp</item>
+    </style>
+</resources>
